@@ -1,0 +1,6 @@
+title: flash
+baseurl: "/flash"
+url: ""
+markdown: kramdown
+theme: modernist
+exclude: [vendor]
