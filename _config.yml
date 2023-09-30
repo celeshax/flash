@@ -2,5 +2,5 @@ title: flash
 baseurl: "/flash"
 url: ""
 markdown: kramdown
-theme: modernist
+theme: jekyll-theme-modernist
 exclude: [vendor]
